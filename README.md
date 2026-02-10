@@ -14,19 +14,35 @@ Currently exploring **Agentic workflows**, **Large Language Models (LLMs)**, and
 <p align="left">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
-**Data Engineering & Backend**
+**Languages (CP) & Backend**
 <p align="left">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
+
+---
+
+### 🏆 Competitive Programming
+
+<p align="left">
+  <a href="https://leetcode.com/u/mohitsharmakv04/">
+    <img src="https://leetcard.jacoblin.cool/mohitsharmakv04?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://www.codechef.com/users/mohit_venom">
+    <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -49,7 +65,12 @@ Currently exploring **Agentic workflows**, **Large Language Models (LLMs)**, and
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitvenom&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <!-- Top Langs: Removed 'compact' layout to fix potential rendering issues -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitvenom&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Top Languages" />
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mohitvenom&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -60,7 +81,7 @@ Currently exploring **Agentic workflows**, **Large Language Models (LLMs)**, and
   <a href="https://github.com/mohitvenom">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://linkedin.com/in/mohit-sharma-857578252/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
